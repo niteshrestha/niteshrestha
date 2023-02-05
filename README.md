@@ -3,7 +3,7 @@
 
 ---
 
-- 👨‍💻 Software Engineer at [Deerwalk Inc.](https://www.deerwalk.com/)
+- 👨‍💻 Software Engineer at [Cedar Gate Technologies](https://www.cedargate.com/)
 
 - 💬 Ask me about .NET Core, C#, Azure App Service.
 
