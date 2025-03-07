@@ -3,7 +3,7 @@
 
 ---
 
-- 👨‍💻 Software Engineer at [Cedar Gate Technologies](https://www.cedargate.com/)
+- 👨‍💻 Engineering Manager at [Cedar Gate Technologies](https://www.cedargate.com/)
 
 - 💬 Ask me about .NET Core, C#, Azure App Service.
 
